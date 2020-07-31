@@ -1,0 +1,6 @@
+C:\Users\james\OneDrive\Codecademy C#\Static Members\Static Members\bin\Debug\Static Members.exe.config
+C:\Users\james\OneDrive\Codecademy C#\Static Members\Static Members\bin\Debug\Static Members.exe
+C:\Users\james\OneDrive\Codecademy C#\Static Members\Static Members\bin\Debug\Static Members.pdb
+C:\Users\james\OneDrive\Codecademy C#\Static Members\Static Members\obj\Debug\Static Members.csprojResolveAssemblyReference.cache
+C:\Users\james\OneDrive\Codecademy C#\Static Members\Static Members\obj\Debug\Static Members.exe
+C:\Users\james\OneDrive\Codecademy C#\Static Members\Static Members\obj\Debug\Static Members.pdb
