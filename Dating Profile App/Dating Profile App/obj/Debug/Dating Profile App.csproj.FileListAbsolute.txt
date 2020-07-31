@@ -1,0 +1,6 @@
+C:\Users\james\OneDrive\Codecademy C#\Dating Profile App\Dating Profile App\bin\Debug\Dating Profile App.exe.config
+C:\Users\james\OneDrive\Codecademy C#\Dating Profile App\Dating Profile App\bin\Debug\Dating Profile App.exe
+C:\Users\james\OneDrive\Codecademy C#\Dating Profile App\Dating Profile App\bin\Debug\Dating Profile App.pdb
+C:\Users\james\OneDrive\Codecademy C#\Dating Profile App\Dating Profile App\obj\Debug\Dating Profile App.csprojResolveAssemblyReference.cache
+C:\Users\james\OneDrive\Codecademy C#\Dating Profile App\Dating Profile App\obj\Debug\Dating Profile App.exe
+C:\Users\james\OneDrive\Codecademy C#\Dating Profile App\Dating Profile App\obj\Debug\Dating Profile App.pdb

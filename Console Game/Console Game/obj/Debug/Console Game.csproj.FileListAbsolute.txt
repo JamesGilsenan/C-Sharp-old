@@ -1,0 +1,6 @@
+C:\Users\james\OneDrive\Codecademy C#\Console Game\Console Game\bin\Debug\Console Game.exe.config
+C:\Users\james\OneDrive\Codecademy C#\Console Game\Console Game\obj\Debug\Console Game.csprojResolveAssemblyReference.cache
+C:\Users\james\OneDrive\Codecademy C#\Console Game\Console Game\bin\Debug\Console Game.exe
+C:\Users\james\OneDrive\Codecademy C#\Console Game\Console Game\bin\Debug\Console Game.pdb
+C:\Users\james\OneDrive\Codecademy C#\Console Game\Console Game\obj\Debug\Console Game.exe
+C:\Users\james\OneDrive\Codecademy C#\Console Game\Console Game\obj\Debug\Console Game.pdb

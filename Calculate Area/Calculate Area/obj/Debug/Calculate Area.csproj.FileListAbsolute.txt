@@ -1,0 +1,6 @@
+C:\Users\james\OneDrive\Codecademy C#\Calculate Area\Calculate Area\bin\Debug\Calculate Area.exe.config
+C:\Users\james\OneDrive\Codecademy C#\Calculate Area\Calculate Area\bin\Debug\Calculate Area.exe
+C:\Users\james\OneDrive\Codecademy C#\Calculate Area\Calculate Area\bin\Debug\Calculate Area.pdb
+C:\Users\james\OneDrive\Codecademy C#\Calculate Area\Calculate Area\obj\Debug\Calculate Area.csprojResolveAssemblyReference.cache
+C:\Users\james\OneDrive\Codecademy C#\Calculate Area\Calculate Area\obj\Debug\Calculate Area.exe
+C:\Users\james\OneDrive\Codecademy C#\Calculate Area\Calculate Area\obj\Debug\Calculate Area.pdb
