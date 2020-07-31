@@ -1,0 +1,5 @@
+C:\Users\james\OneDrive\Codecademy C#\Rover Control Center References Objects\Rover Control Center References Objects\bin\Debug\Rover Control Center References Objects.exe.config
+C:\Users\james\OneDrive\Codecademy C#\Rover Control Center References Objects\Rover Control Center References Objects\bin\Debug\Rover Control Center References Objects.exe
+C:\Users\james\OneDrive\Codecademy C#\Rover Control Center References Objects\Rover Control Center References Objects\bin\Debug\Rover Control Center References Objects.pdb
+C:\Users\james\OneDrive\Codecademy C#\Rover Control Center References Objects\Rover Control Center References Objects\obj\Debug\Rover Control Center References Objects.exe
+C:\Users\james\OneDrive\Codecademy C#\Rover Control Center References Objects\Rover Control Center References Objects\obj\Debug\Rover Control Center References Objects.pdb
