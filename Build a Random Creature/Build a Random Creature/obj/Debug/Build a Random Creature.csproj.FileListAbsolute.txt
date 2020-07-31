@@ -1,0 +1,5 @@
+C:\Users\james\OneDrive\Codecademy C#\Build a Random Creature\Build a Random Creature\bin\Debug\Build a Random Creature.exe.config
+C:\Users\james\OneDrive\Codecademy C#\Build a Random Creature\Build a Random Creature\bin\Debug\Build a Random Creature.exe
+C:\Users\james\OneDrive\Codecademy C#\Build a Random Creature\Build a Random Creature\bin\Debug\Build a Random Creature.pdb
+C:\Users\james\OneDrive\Codecademy C#\Build a Random Creature\Build a Random Creature\obj\Debug\Build a Random Creature.exe
+C:\Users\james\OneDrive\Codecademy C#\Build a Random Creature\Build a Random Creature\obj\Debug\Build a Random Creature.pdb
