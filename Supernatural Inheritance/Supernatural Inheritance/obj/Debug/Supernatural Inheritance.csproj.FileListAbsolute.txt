@@ -1,0 +1,6 @@
+C:\Users\james\OneDrive\Codecademy C#\Supernatural Inheritance\Supernatural Inheritance\bin\Debug\Supernatural Inheritance.exe.config
+C:\Users\james\OneDrive\Codecademy C#\Supernatural Inheritance\Supernatural Inheritance\bin\Debug\Supernatural Inheritance.exe
+C:\Users\james\OneDrive\Codecademy C#\Supernatural Inheritance\Supernatural Inheritance\bin\Debug\Supernatural Inheritance.pdb
+C:\Users\james\OneDrive\Codecademy C#\Supernatural Inheritance\Supernatural Inheritance\obj\Debug\Supernatural Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\james\OneDrive\Codecademy C#\Supernatural Inheritance\Supernatural Inheritance\obj\Debug\Supernatural Inheritance.exe
+C:\Users\james\OneDrive\Codecademy C#\Supernatural Inheritance\Supernatural Inheritance\obj\Debug\Supernatural Inheritance.pdb
