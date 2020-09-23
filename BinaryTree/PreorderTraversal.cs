@@ -36,7 +36,7 @@ public class BinaryTree {
         return values;
     }
 }
-    class Program
+    class PreorderTraversal
     {
         static void Main(string[] args)
         {
